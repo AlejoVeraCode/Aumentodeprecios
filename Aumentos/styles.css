@@ -1,0 +1,220 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-top: 20px;
+  }
+  
+  input {
+    padding: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  #resultados {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+  }
+  
+
+  /* Estilos anteriores... */
+
+#tabla-resultados {
+  margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#tabla-resultados th, #tabla-resultados td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#tabla-resultados th {
+  background-color: #f2f2f2;
+}
+/*Mitades*/
+
+#tabla-resultados-mitades {
+  margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#tabla-resultados-mitades th, #tabla-resultados-mitades td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#tabla-resultados-mitades th {
+  background-color: #f2f2f2;
+}
+
+
+/*Milanesas de carne*/
+
+#tabla-resultados-milanesas {
+  margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#tabla-resultados-milanesas th, #tabla-resultados-milanesas td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#tabla-resultados-milanesas th {
+  background-color: #f2f2f2;
+}
+
+/*Milanesas de pollo*/
+
+#resultadosmilanesaspollo {
+  margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#resultadosmilanesaspollo th, #resultadosmilanesaspollo td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#resultadosmilanesaspollo th {
+  background-color: #f2f2f2;
+}
+
+/*Sandwiches de milanesa*/
+
+#resultadossandwichesmilanesa {
+  margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#resultadossandwichesmilanesa th, #resultadossandwichesmilanesa td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#resultadossandwichesmilanesa th {
+  background-color: #f2f2f2;
+}
+
+/*Pollos*/
+
+#resultadospollos {
+  margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#resultadospollos th, #resultadospollos td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#resultadospollos th {
+  background-color: #f2f2f2;
+}
+
+/*Papas fritas*/
+
+#resultadospapasfritas {
+  margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#resultadospapasfritas  th, #resultadospapasfritas  td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#resultadospapasfritas  th {
+  background-color: #f2f2f2;
+}
+
+/*Hamburguesas*/
+
+#resultadoshamburguesas {
+  margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#resultadoshamburguesas  th, #resultadoshamburguesas  td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#resultadoshamburguesas  th {
+  background-color: #f2f2f2;
+}
+
+/*Empanadas*/
+
+#resultadosempanadas {
+  margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#resultadosempanadas  th, #resultadosempanadas  td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#resultadosempanadas  th {
+  background-color: #f2f2f2;
+}
+
+/*Bebidas*/
+
+#resultadosbebidas {
+  margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#resultadosbebidas  th, #resultadosbebidas   td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#resultadosbebidas   th {
+  background-color: #f2f2f2;
+}
